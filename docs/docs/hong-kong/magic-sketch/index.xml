@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Business 3.0</title>
-    <link>http://example.org/docs/hong-kong/magic-sketch/</link>
+    <link>https://shenchingtou.github.io/asian-founders-archive/docs/hong-kong/magic-sketch/</link>
     <description>Recent content on Business 3.0</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/docs/hong-kong/magic-sketch/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shenchingtou.github.io/asian-founders-archive/docs/hong-kong/magic-sketch/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Part 1: Monetisation</title>
-      <link>http://example.org/docs/hong-kong/magic-sketch/part-1/</link>
+      <link>https://shenchingtou.github.io/asian-founders-archive/docs/hong-kong/magic-sketch/part-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/hong-kong/magic-sketch/part-1/</guid>
+      <guid>https://shenchingtou.github.io/asian-founders-archive/docs/hong-kong/magic-sketch/part-1/</guid>
       <description>How this solopreneur monetized the right product after multiple wrong successes Archive Date: February 22, 2018
 Part 1 of an interview with UX/UI designer and solopreneur, James Tang, creator of the Sketch plug-in Magic Mirror (now Magic Sketch). This interview was conducted in Cantonese, with the English version is a translation with approval from James. Part 1 covers James’ journey in experimenting with ways to generate income after leaving a paid job in Hong Kong’s startup scene.</description>
     </item>
     
     <item>
       <title>Part 2: Pivot</title>
-      <link>http://example.org/docs/hong-kong/magic-sketch/part-2/</link>
+      <link>https://shenchingtou.github.io/asian-founders-archive/docs/hong-kong/magic-sketch/part-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/hong-kong/magic-sketch/part-2/</guid>
+      <guid>https://shenchingtou.github.io/asian-founders-archive/docs/hong-kong/magic-sketch/part-2/</guid>
       <description>How to stay agile and pivot as a solopreneur: James Tang and Magic Sketch Archive Date: February 25, 2018
 Part 2 of an interview with UX/UI designer, James Tang, creator of the Sketch plug-ins Magic Sketch and Magic Presenter). This interview was conducted in Cantonese and translated into English. In Part 1, we covered James’ experiments, learnings, and failures before he arrived at his first hit product, Magic Mirror. In Part 2, James shares how he started working on his product and his early mistakes that taught him how to create revenue in hopes that other fellow developers, UX designers, and entrepreneurs can successfully build their ideas.</description>
     </item>

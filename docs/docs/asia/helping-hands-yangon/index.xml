@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Business 3.0</title>
-    <link>http://example.org/docs/asia/helping-hands-yangon/</link>
+    <link>https://shenchingtou.github.io/asian-founders-archive/docs/asia/helping-hands-yangon/</link>
     <description>Recent content on Business 3.0</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/docs/asia/helping-hands-yangon/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shenchingtou.github.io/asian-founders-archive/docs/asia/helping-hands-yangon/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Part 1: Starting</title>
-      <link>http://example.org/docs/asia/helping-hands-yangon/part-1/</link>
+      <link>https://shenchingtou.github.io/asian-founders-archive/docs/asia/helping-hands-yangon/part-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/asia/helping-hands-yangon/part-1/</guid>
+      <guid>https://shenchingtou.github.io/asian-founders-archive/docs/asia/helping-hands-yangon/part-1/</guid>
       <description>How this woman unwittingly became a female founder: Helping Hands Yangon Archive Date: January 18, 2018
 How dogged persistence in prototyping for a personal project grew into minimum viable product (MVP) and became a social enterprise called Helping Hands Yangon. Learn how Annie founded this self-sustaining business after realizing there was demand in Myanmar for teak furniture and local Burmese handicrafts.
 The women looked from their sewing machines to see who had walked through the 10-foot wooden doors.</description>
@@ -23,10 +23,10 @@ The women looked from their sewing machines to see who had walked through the 10
     
     <item>
       <title>Part 2: Recruiting Talent</title>
-      <link>http://example.org/docs/asia/helping-hands-yangon/part-2/</link>
+      <link>https://shenchingtou.github.io/asian-founders-archive/docs/asia/helping-hands-yangon/part-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/asia/helping-hands-yangon/part-2/</guid>
+      <guid>https://shenchingtou.github.io/asian-founders-archive/docs/asia/helping-hands-yangon/part-2/</guid>
       <description>How this female founder used trust as a currency when cash isn’t enough in a Myanmar startup Archive Date: February 21, 2018
 This is Part 2 of an interview with Annie, co-founder of the Myanmar startup and social enterprise Pomelo for Myanmar. She shares how she crossed cultural divides to work with and hire local Burmese artisans, street youth, and single mothers. In Part 1, Annie shared how she developed her product for her first social enterprise, Helping Hands Yangon.</description>
     </item>
