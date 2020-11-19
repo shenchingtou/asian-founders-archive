@@ -4,3 +4,6 @@ title = "Business 3.0"
 description = "An archive of product and business development experiences from startup founders in East Asia"
 theme = "book"
 
+publishDir = "docs"
+googleAnalytics = ""
+

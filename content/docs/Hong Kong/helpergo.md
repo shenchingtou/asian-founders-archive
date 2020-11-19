@@ -1,0 +1,71 @@
+---
+weight: 1
+bookFlatSection: true
+title: "Helper Go"
+---
+
+# Building a revenue-driven product in 2 years — Sam Ng on HelperGo Part 1
+
+Archive Date: October 8, 2018
+
+ ![](https://i0.wp.com/b3p0.org/wp-content/uploads/2018/10/Sam-Ng-HelperGo-2374-Final-Web.jpg?fit=900%252C600&quality=95&ssl=1) 
+
+***Brief:** In 2015, Sam Ng was onto his third company after two failed startups in two years. Fast forward to 2018 and Sam’s third company, [HelperGo](https://www.helpergo.co/) had investment from 500 Startups and reached profitability. Sam’s fourth company was already raising Series A and he had exited to work on his fifth startup, which had already secured investment. Sam sat down with us to share the gritty details of developing HelperGo. Part 1 covers how his approach to product development has evolved.*
+
+---
+
+It wasn’t failing his first startup, or his second startup, that taught Sam Ng how to build products. It wasn’t even securing investment for his third startup, HelperGo. Sam started our conversation by saying that he finally started to figure it out only after talking to hundreds of founders when he spent 6 months in Silicon Valley.
+
+Sam Ng’s journey to [HelperGo](https://www.helpergo.co/) was not a straightforward one. Born in Hong Kong, he had spent over a decade in Australia, studied engineering, and worked in the industry before returning to his home city. By 2013, he had a secure full-time job and the startup market was already hot — not a good time for a newbie to wade in. He kept his job through his first two startup attempts and he cited lack of focus and software QA issues from outsourcing that resulted in failures. Undeterred, Sam pitched a third idea to the Hong Kong Science and Technology Park (HKSTP), where it got funding. Taking his previous learnings to heart that a startup needed full-time commitment, Sam quit his FinTech job to work with his two co-founders on this third idea.
+
+ ![helpergo hong kong chinese](https://i0.wp.com/b3p0.org/wp-content/uploads/2018/10/helpergo-landing-page-chinese.png?resize=900%252C454&quality=95&ssl=1)Source: HelperGo website 
+
+We interviewed Sam from the office of his fifth startup, located at Sheung Wan’s NakedHub. We drilled down into his approach to building product for HelperGo, an online marketplace app for home services. We conducted the interview in Cantonese. Below, are Sam’s answers to how HelperGo evolved as a marketplace product that people will pay for.
+
+### **What counts as “product” to you?**
+
+To me, product and service are different. Product is what people are willing to pay for. Customer service is separate. A lot of people say service is part of product, but you can have no customer service and still have a good product (like Whatsapp). Product should be a self-encapsulated thing that gives its users value.
+
+### **How do you structure your team around your approach to product?**
+
+A product owner is very important. That is the person who decides the direction, and is the spirit of the company. Of course, the direction can change, but you usually stick to a plan for 3-6 months. That person needs a lot of experience. They need to have seen a lot of products, be interested in human behaviour, and have an understanding of people.
+
+HelperGo as a product is a marketplace. The technical side for HelperGo isn’t difficult. Fundraising for marketplaces is the most important part because critical mass is essential for network effect to take place and ensure long-term sustainability.
+
+The different product natures will have different team structures. But in the case of HelperGo as a marketplace, a finance person becomes super important. Of course, the CEO, who may or may not be the same person, is important because that person sets the expansion plan, which then affects your fundraising. Each fundraising round and valuation is also critical; how much you raise is like how many shots you’ve stocked up to do things right and get to the next round.
+
+In addition, people are needed to build a marketplace — business development people, which means management of people essential. A company like Hong Kong’s Lalamove is now a company with over 5000 people [across China and Southeast Asia], so how do you manage such a rapidly growing company?
+
+For HelperGo, I was the product owner but I had to grow into the role on the job. When we founded the company, there were 3 people: myself, Raymond as CTO, and business person with an SME background. None of us had startup experience, but as a team we were a good fit for the product needs.
+
+### **If your app is the product for an end user, what type of interface did you want it to be?**
+
+HelperGo’s interface is all about trust. A user is letting someone into their home. The app is there to standardize the market for services such as care giving, house cleaning, or maintenance, and it’s a long education process for users to overcome their skepticism. So even though the app’s core value should be to make the matching process for service providers with people who need them convenient, standardized, and automated, having a human touch is important. The app’s value alone cannot change mindsets to drive adoption, so we needed to humanize the app to get people to feel they can trust it.
+
+### **Can you elaborate on why you don’t consider customer service as part of product?**
+
+Service isn’t part of the product, but at the same time, business requires a service component to survive. For HelperGo, our service included having the service provider (say cleaner) phone the client immediately after they accepted a job. It shouldn’t be necessary because the app has all the necessary details, such as your scheduled arrival time. But having that human voice to confirm makes a difference for a user.
+
+We also build trust through a 100% satisfaction guarantee. Most cases are fine, so you just want to cover the worst case scenarios. Usually, you can shoot for the 80-20 rule. As long as you work out a system where you can get 80% satisfied people for as little effort as possible while honouring the 20% of unsatisfied people, it should be sustainable.
+
+### **Did you have a persona when you started and how did you do customer discovery?**
+
+No, we didn’t have a persona at first. It has to be a data-driven approach. That also means you need money to acquire customers to acquire data, to create a persona, to fine tune the product (goes back to fundraising). Many people in Hong Kong feel like you can build an app for HK$200-300,000, so why did we invest so much more than that?
+
+We made the investment because the process of building the right product is difficult. We had to put in money to make a more expensive product to learn how to iterate better. But there is the problem that people don’t have time to really give you the information to improve. Especially our users. Our target users would use our app when they’re waiting for something or on the bus. They use apps to *not* make calls. Of course, we tried phone calls to ask people about areas of improvement, but they’re costly and not that effective. User interviews gave some insights, but they ultimately were not as useful as the data we learned to collect on the platform itself.
+
+### **But often people want to collect user feedback to improve a product. How did you learn to improve yours?**
+
+We rarely directly interface with our paying customers because they don’t really want to be reached. We might phone some customers to ask how they found the service. For first time users, we would phone and ask, “What did you think of the service? Would you continue to have this person?” We wrap up in 3 questions. Segmenting users does help retention, but it’s nonetheless time-consuming, so we only do samples.
+
+I don’t think user interviews are always a good thing; talk to your customer is what everyone says, but it’s not that great. Everyone says they want options, so you give them options. But then they don’t know how to pick and make a decision. We ultimately went from giving people the option to input their own prices, to providing a range of prices, to 3 prices, to no choice in price (we set it). B2C people don’t know what they want. If you talk to them you get feedback, but it might not be useful.
+
+### **If you could go back, how would you develop your product differently?**
+
+Building data collection and analytics into the product from the get-go would have saved us a lot of pain in adding it back later and given us critical insights in our first year. We eventually built analysis into the product. We built in feedback features such as asking 3 survey questions after someone has used the service, using Google to find out user information, such as our customers like to travel, using heat maps, and tracking referrals.
+
+### **Can you share one of your biggest challenges? What learning can you share based on that?**
+
+Actually, if I were to go back, I would hire a team in China. Talent is too expensive in Hong Kong. The founding team’s knowledge of how to build the product is super important. But there are other needs when the team grows bigger, such as fundraising, admin, and marketing, but it’s impossible to hire people in Hong Kong. For my new business, we’re hiring in China even though we have no connections. In Hong Kong, all the brightest people go to the banks.
+
+No startup in Hong Kong can afford the prices of full-stack engineers or people with startup experience and are willing to go hands-on. On the other hand, there’s a lot more opportunity and talent in China. In Hong Kong, you don’t have that talent diversity. The team we assemble needs to be able to adapt rapidly to change.

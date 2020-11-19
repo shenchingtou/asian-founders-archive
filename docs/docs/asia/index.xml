@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business 3.0</title>
+    <link>http://example.org/docs/asia/</link>
+    <description>Recent content on Business 3.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/docs/asia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Root Impact in Seoul</title>
+      <link>http://example.org/docs/asia/hkelly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/asia/hkelly/</guid>
+      <description>Redesigning co-working for impact Archive Date: May 16, 2019
+Two years after Root Impact began working to support Changemakers, a pattern of barriers had emerged. By 2014, they began collaboratively designing a co-working space with its potential tenants, and launched HEYGROUND in 2017 with over 90% occupancy. The 6000-square metre space has attracted the attention of mainstream media, companies like Patagonia, and South Korea’s sitting President Moon Jae-in. In 2018, we sat down with HKelly Shin from Root Impact to talk about HEYGROUND’s development and ongoing evolution.</description>
+    </item>
+    
+    <item>
+      <title>Social Impact Myanmar (SIM)</title>
+      <link>http://example.org/docs/asia/haraldfriedl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/asia/haraldfriedl/</guid>
+      <description>Preparation in Anticipation for New Markets: Harald Friedl with Social Impact Myanmar (SIM) Archive Date: January 10, 2018
+Social Impact Mynamar and MVP development approaches to startup hubs, incubators, and ecosystem support in Yangon while waiting for market maturation.
+It was an unassuming white block for a meeting. It was behind a wall, up a teeny slope, and had a restaurant with a patio beside. When Harald came in, still caught in a phone meeting.</description>
+    </item>
+    
+  </channel>
+</rss>

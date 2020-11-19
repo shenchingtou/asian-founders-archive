@@ -1,0 +1,93 @@
+---
+weight: 1
+bookFlatSection: true
+title: "Part 2: Recruiting Talent"
+---
+
+
+# How this female founder used trust as a currency when cash isn’t enough in a Myanmar startup
+
+Archive Date: February 21, 2018
+
+![yangon social enterprise founder startup](https://i1.wp.com/b3p0.org/wp-content/uploads/2018/01/20150515-Yangon-Helping-Hands-Annie-3977.jpg?fit=900%252C598&quality=95&ssl=1)
+
+This is Part 2 of an interview with Annie, co-founder of the Myanmar startup and social enterprise [Pomelo for Myanmar](https://www.facebook.com/pomeloformyanmar/?fref=ts). She shares how she crossed cultural divides to work with and hire local Burmese artisans, street youth, and single mothers. In [Part 1](https://b3p0.org/2018/helping-hands-yangon-pomelo-social-enterprise-myanmar/), Annie shared how she developed her product for her first social enterprise, Helping Hands Yangon. Part 2 covers how she grew a business by creating a unique company culture that helped talent acquisition and retention for Burmese locals. Only her given name is used for privacy reasons.
+
+**Overview points:**
+
+* Upstream expansion from production to retail
+* “Career development” and opportunities may not be seen that way
+* Poverty can be a barrier to employment
+* Understand employees’ context and priorities is more important than cash
+* Help employees solve basic problems to recruit and retain them
+* Leaders harness trust as a currency
+
+---
+
+In the sultry heat of Yangon’s afternoon, I walked down windy streets flanked with food stalls, garbage collection carts, and leafy palms. I entered the open gates, spied a carpenter sprawled on top of a table he was working on, passed wirey boys with chocolate skin and oversized t-shirts kicking around a football. More young boys emerged from corners and various parts of the garden, marching purposefully through the lawn. I was meeting with Annie to map out the core value propositions for her two social enterprises using the [Business Model Canvas](https://strategyzer.com/canvas/business-model-canvas).
+
+![local yangon ngo](quiver-image-url/D31A3FF0933614E45F1BE17C2854EFAF.jpg)Boys taking a break after school and work — Photo by Athena Lam
+
+What preoccupied Annie when we spoke in 2015 was how to expand impact by growing those businesses while protecting the organizational culture that attracted people in the first place. In addition to the challenges of building those businesses, Annie had huge hurdles finding and keeping local employees despite what seemed like attractive working conditions. Over the course of the afternoon, she explained how [Helping Hands Yangon](http://www.helpinghandsyangon.org/) and [Pomelo for Myanmar](https://www.facebook.com/pomeloformyanmar/?fref=ts) evolved and why she was cautious about business expansion.
+
+## **Bringing your goods to customers**
+
+![pomelo yangon myanmar social enterprise](quiver-image-url/754970E610B1EEA388EDD3CD99E30FD1.jpg)Handmade tote bags at Myanmar startup Helping Hands Yangon — Photo by Athena Lam
+
+After founding Helping Hands (covered in [Part 1](https://b3p0.org/2018/helping-hands-yangon-pomelo-social-enterprise-myanmar/)), Annie and her co-founder established [Pomelo](https://www.facebook.com/pomeloformyanmar/?fref=ts), a retail shop that was a natural upstream expansion to retail for the furniture and textile pieces her first social enterprise produced. [Pomelo](https://www.facebook.com/pomeloformyanmar/?fref=ts) goes beyond being the traditional social enterprise retail shop set up with donor funds to sell artisan handicrafts. The store’s self-financed model means it has to run like a traditional business keeping itself afloat with sales. Sales come when the products are useful or resonate with buyers, and when store staff can effectively engage shoppers. The sales staff are securing their own pay cheques by helping generate revenue and the artisan groups supplying the shop know future orders are dependent on continued production of high quality products. The profits from sales are distributed back to the artisans and staff, creating a direct link between effort and reward, and a feedback loop for trying new products, and customer reception.
+
+The decision to open a store was also timely. In 2011, Myanmar [began its political reforms](https://en.wikipedia.org/wiki/2011%E2%80%9315_Myanmar_political_reforms) to open its economy, which paving the way for investment and tourism. In fact, the economy and tourism exploded. Tourism traffic [jumped 29.72%](http://tourism.gov.mm/wp-content/uploads/2017/08/Myanmar-Tourism-Statistics-2016-1.pdf) between 2011-12 from 816,369 to 1,058,995\. Between 2011 to 2015, inbound tourism had double-digit year-on-year growth to peak at 4,681,020 annual visitors. As a first-mover in retailing local handicrafts, Pomelo was on Google Maps and searches by the time tourists started looking up Myanmar and locals started using smartphones.
+
+Though having a shop that employed, trained, and “empowered” local staff sounds like a perfect textbook employer, Annie was not flooded with job applications. On the contrary, she had to negotiate with virtually all of her staff, from Helping Hands through to Pomelo. Why?
+
+## **Giving employees value that salaries alone cannot buy**
+
+![Yangon](quiver-image-url/D5793F79E9ABA95A52DD6704DEAFF322.jpg)Colourful colonial houses in downtown Yangon — Photo by Athena Lam
+
+“Cultural gap” is often the blamed culprit for things not working out between people. What was the cultural gap that made Helping Hands and Pomelo seem attractive to us in theory, but not to local Burmese?
+
+The answer is simple: they weren’t interested. Annie proceeded to explain a few cases.
+
+There was the single mother who one day said she couldn’t work any more, despite being a great employee at Helping Hands. There were the street youth that she wanted to hire, since they had no money, had dropped out of school, few job prospects, and time to kill. There was the store attendant at Pomelo who was utterly disinterested in book keeping. Each case became a personalized, and lengthy, process of understanding a person’s situation that was a barrier to work, which could have easily spiraled into a vicious unemployment cycle if they were just let go.
+
+**The employee who was too poor to work**
+One single mother at Helping Hands could not afford to pay rent and raise her five children even with her regular earnings from the company. She had a bigger problem than getting to work on time and didn’t see a way out, so she resigned. Annie only discovered the reason when she asked. Then, in order to keep this valued employee, Annie set out to solve the mother’s problem: finding a home — a free one at that since the employee couldn’t pay, and nor could the company out of fairness to other staff. Eventually, Annie found a vacant (and free!) home through her networks. She gave the mother the key to the apartment under the condition that the mother would leave 2 spare bedrooms for other street youth who were employed in Annie’s businesses and cook for them. Annie not only kept her employee — that mother saved enough money and moved out once she could. She was the first of many cases and the flat became a launchpad for other women just like her who needed a bit of time save up for their independence.
+
+**The youth who preferred freedom**
+Despite their “depressing” situations to readers with more privileged backgrounds, these individuals have choices too: a choice to not work. For the street youth Annie wanted to hire for Helping Hands, work meant schedules, deadlines, and being ordered around. Even with the part-time pay, hanging out with friends seemed more fun. Even if these young people couldn’t guarantee their next meal or sleeping place, they could at least control how they used their time and where they went. Worse, Annie wanted them to go to school for half the day! Education looks good on paper, but it is a truth universally acknowledged that institutional schooling is reliably boring.
+
+But what Annie could offer was a yard where boys could play ball without being chased off the street by shopkeepers and cars. Some young people she pestered and cajoled. Others tagged along after their friends joined. Annie entrusted young people with responsibility, gave second chances, treated them with respect, and eventually won them over. Now, Helping Hands offers daily classes offering literacy, maths, and English, with specialized classes in photography, business skills and swimming. All employees now have access to medical support and flexible working conditions.
+
+**The staff member who didn’t want to learn higher level skills**
+Finally, there was one promising sales associate at Pomelo that Annie was trying to hand over the store’s book keeping to. As a country that had recently opened up, anyone with a technical skill for office work would increase their employment and career chances. This was the young woman’s career development opportunity by learning transferable skills. In developed countries and international corporations, this would be a shining example of female sponsorship and mentorship.
+
+But the young Burmese woman had also grown up in a [military dictatorship](https://en.wikipedia.org/wiki/Myanmar) (which lasted from 1962-2011), with no foreign direct investment or brands, where electricity was a luxury, and blackouts were the norm in Yangon even until 2013\. Bookkeeping was not necessary for her or anyone she knew, given that no-one had grown up with much money and there wasn’t much business to manage.
+
+When recounting that latest headache, Annie had sighed with exasperation, but not a drop of resignation. Since then, Pomelo has distilled and strengthened its commitment to “nurturing local talent by providing design and product development training and business mentoring” so that artisans can create high quality products for their customers and sustainable businesses for themselves. Pomelo’s products range from traditional handicrafts and household decorations to practical tableware, kitchenware, and baby clothing. Check their [Instagram account](https://www.instagram.com/pomeloformyanmar/)to see what they have!
+
+## **Introducing trust as a currency**
+
+![Yangon](quiver-image-url/7720A697DD464EDFDF0003D421C88BA4.jpg)Since opening up in 2011, Yangon has rapidly gained modern amenities like electricity, cell phones, and WiFi — Photo by Athena Lam
+
+People often have good reason to not jump on “great ideas” the way people reflexively do in Silicon Valley. Like Annie’s employees, they have their own problems to deal with. Before judging someone for not jumping on board, Annie asked questions that helped her decide how act:
+
+* Do I understand and appreciate this person’s priorities?
+* Am I helping solve this person’s immediate problems that helps them do their job?
+* How can I help them meet those needs?
+* What can I do to earn their trust and confidence in me?’
+
+But by giving people a taste of how it felt to be acknowledged, appreciated, and considered, Annie gave people a reason to work with her, especially when money alone was not enough. What bootstrapped organizations lack in funds, they can make up with creativity and compassion. Annie’s company couldn’t pay more, but she could leverage her other resources and networks. Cash-strapped startups often attract talent because they can mine a different type of currency: trust.
+
+## **Is trust in one person scalable?**
+
+Annie’s tailored solutions seem like one-off cases. Apartment keys with no contracts or insurance isn’t practical to roll out as a policy. But can her approach still be extracted to build into the fabric of an organization? Good organizations try.
+
+Trust building is the philosopher’s stone that makes everything work and everyone happy to keep coming to work. Organizations have tried approaches like Buffer’s [radical transparency](https://open.buffer.com/transparency-timeline/), [Zappo](https://hbr.org/2008/05/why-zappos-pays-new-employees)’[s paying employees to quit](https://hbr.org/2008/05/why-zappos-pays-new-employees)[, or flat structures](http://firstround.com/review/An-Inside-Look-at-a-Flat-Organization-That-Serves-Millions/) like Gumroad’s. Feelings like trust and happiness are essential to employee [productivity](https://open.buffer.com/?utm_source=blog&utm_medium=Social&utm_campaign=nav-open) and loyalty, and it’s worth experimenting, failing, and trying again to get right.
+
+But perhaps the crux of “scalable” trust is not in thinking about replacing people with systems. Instead, it is about considering the elements that makes an organization unique and ensuring those essential strands are woven into the fabric of a growing company through everyone’s conduct.
+
+When I entered and when I finally left at dusk, the people around the estate were not being kept track of. They didn’t have to be.
+
+![shwedagon pagoda yangon](quiver-image-url/7F974E25AF890BA5FC0A8A5FB41EF2BA.jpg)Shwedagon Pagoda at sunset — Photo by Athena Lam
+
+Check out the furniture currently available at the Helping Hands [Facebook page](https://www.facebook.com/helpinghandsyangonfurniture) and the [artisan groups](http://pomeloformyanmar.org/artisans/) Pomelo for Myanmar works with.
