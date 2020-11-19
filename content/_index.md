@@ -1,10 +1,10 @@
 ---
-title: About Business 3.0
+title: About this Asian Founders Archive (formerly Business 3.0)
 type: docs
 bookToC: true
 ---
 
-## Original Concept
+## Original Concept behind the Business 3.0 Project
 
 Business is often seen as a zero-sum game. Business 2.0 was originally a monthly magazine founded by [Chris Anderson](https://en.wikipedia.org/wiki/Chris_Anderson_(TED)), now TED’s curator, which chronicled the rise of the “[New Economy](https://en.wikipedia.org/wiki/New_Economy)“, driven by internet-based services. For us, Business 2.0 means business with new digitally-based tools, services, products, best practices, and strategies.
 
