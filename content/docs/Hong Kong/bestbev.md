@@ -9,7 +9,7 @@ title: "BestBev"
 
 Archive Date: April 19, 2018
 
- ![bestbev founder](https://i0.wp.com/b3p0.org/wp-content/uploads/2018/04/bestbev-1.jpg?fit=900%252C598&quality=95&ssl=1) 
+ ![bestbev founder](https://raw.githubusercontent.com/shenchingtou/asian-founders-archive/master/images/%5BWeb%5D%20Shaheen%20BestBev-6326.jpg) 
 
 [BestBev ](http://bestbevhk.com/)was born in March 2013, and within months had their first shipment of craft beer into Hong Kong. Since then, its Shaheen Budhrani, Shakib Pasha, and Arnold Lee have introduced a host of award-winning overseas beers and ciders into the Hong Kong market and acquired an industry competitor by the end of 2017\. BestBev runs a traditional B2B import and distribution model to restaurants, bars, and hotels across Hong Kong and Shaheen shares how they did guerrilla business development and built industry relationships before the market got too hot.
 
@@ -21,7 +21,7 @@ I’ll say upfront, we didn’t do anything that innovative. We saw a huge gap i
 
 #### **Can you quickly recap how you signed your first breweries and restaurants?**
 
-![bestbev restaurants](https://i2.wp.com/b3p0.org/wp-content/uploads/2018/04/bestbev-2.jpg?resize=900%252C598&quality=95&ssl=1)
+![bestbev restaurants](https://raw.githubusercontent.com/shenchingtou/asian-founders-archive/master/images/%5BWeb%5D%20Shaheen%20BestBev-6302.jpg)
 
 Signing the deal for our first few breweries were quite easy as it was clear that breweries in the West were facing saturation points and were looking to expand abroad. The movement had already begun in Japan and there was some loose track record in Singapore, so it was easy to convince the breweries that Hong Kong would be able to pick up traction soon. We convinced them we were in it for the long run and had a strong sense of wanting to invest in brand building as opposed to ‘trading’.** **
 
@@ -77,8 +77,6 @@ A lot of factors came together. I didn’t see an opportunity to grow with my jo
 There was a clear roadmap for on how we could grow sales if we put in the hours. I made the transition not *after* we hit a number, but in order to hit our targets. After I went full time, we were pretty cash tight for a few months to pay my salary, but we got there.
 
 #### **You were in charge of business development. What skills did you apply most to secure deals?**
-
-![best bev founder](https://i0.wp.com/b3p0.org/wp-content/uploads/2018/04/bestbev-5.jpg?resize=900%252C598&quality=95&ssl=1)
 
 I once interned at a company and was given a phone book where I made 100+ calls a day to sell to high-net worth individuals. A few months after I started, I closed a deal within 72 hours and made the record for the fastest intern to every do so. That job was very good training to learn what words get responses, how to keep someone on the line, and also how to move on quickly. You can’t teach that skill. You just have to do it. I applied the skills I learned in that job for sales here.
 

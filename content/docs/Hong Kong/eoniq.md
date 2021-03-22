@@ -8,11 +8,10 @@ title: "EONIQ"
 
 Archive Date: May 3, 2018
 
-![charles wong kin chung quinn lai](https://i1.wp.com/b3p0.org/wp-content/uploads/2018/05/Eoniq-9464.jpg?fit=900%252C598&quality=95&ssl=1) 
 
 Founded in the summer of 2014, EONIQ is a custom watch brand founded in Hong Kong and that was the first to create customized mechanical watches that are designed by users on its website. Since its founding, EONIQ has always been profit run (with no capital injection), and the company has been featured on Elle, Tech in Asia, and The Next Web. Below is an interview with the co-founder, Quinn Lai, of how they relentlessly pursue product development through “need finding” (a concept from [Design Thinking](https://en.wikipedia.org/wiki/Design_thinking)).
 
-![EONIQ app handmade watch](https://i0.wp.com/b3p0.org/wp-content/uploads/2018/05/APWB_Athena_Lam_EONIQ-App.jpeg?resize=900%252C506&quality=95&ssl=1)Users design their own handmade watch on an app with EONIQ.
+![EONIQ app handmade watch](https://raw.githubusercontent.com/shenchingtou/asian-founders-archive/master/images/APWB_Athena_Lam_EONIQ-App.jpeg)Users design their own handmade watch on an app with EONIQ.
 
 ### Building on first products, need finding, and creating a scalable solution
 
@@ -22,7 +21,7 @@ It took a couple weeks to find the initial “researched” answers. Then I boug
 **From making your own watch to a unique brand experience where users can design and customize their own watches using a web app. How did you get there?**
 My previous side business was Kairos Design. In that business, the model was customer-to-watch designer matching. Each watch would cost upwards of HK$30,000\. While doing that business I learned that one of the most inefficient parts of the process was the iteration and communication between designers and customers. I went ahead and created an app to make it more efficient. It turned out this also make things scalable; thus EONIQ was born.
 
-![EONIQ hong kong tech startups](https://i0.wp.com/b3p0.org/wp-content/uploads/2018/05/Eoniq-9412.jpg?resize=900%252C598&quality=95&ssl=1)A customized watch face with Hong Kong in the design — Photo by Athena Lam
+
 **How did you originally think of the app as an interface between you and a customer? How has that view evolved?**
 Originally it was functional: it needs to make the communication of the design efficient, and the preview accurate enough for the customer to iterate and get feedback. Now it is more emotional: it’s about a smooth, enjoyable, not intimidating process of designing one’s own unique watch/gift.
 
@@ -47,7 +46,6 @@ Technology is just a tool. We design our user experience around customers’ nee
 
 ### Optimizing business funnels and expanding to new markets
 
-![hong kong startups eoniq](https://i1.wp.com/b3p0.org/wp-content/uploads/2018/05/Eoniq-9470.jpg?resize=900%252C598&quality=95&ssl=1)EONIQ’s office in a local industrial area in Hong Kong — Photo by Athena Lam
 **Since then, EONIQ has expanded beyond Hong Kong. How did you choose the new markets you were entering?**
 Mostly based on data, depending on the customer acquisition cost (CAC) for different countries. We design types of content based on different countries’ social media behaviours, and we test and try to obtain the best CAC for each country. As long as the CAC make sense we grow that pie.
 
@@ -68,5 +66,4 @@ Takes time. In our line of business, most people buy once. (For now).
 **Any final tactics\* (not tips) for fellow entrepreneurs in Asia?**
 Social media is getting a lot more expensive. If a new entrant fails in doing need finding and experiments just with money and data, it will be close to mission impossible.
 
-![EONIQ personalized custom watch](https://i2.wp.com/b3p0.org/wp-content/uploads/2018/05/Eoniq-9406.jpg?resize=900%252C598&quality=95&ssl=1)A completed watch ready to be packaged and sent out — Photo by Athena Lam
 [EONIQ](http://eoniq.co/) is co-founded by Quinn Lai and Charles Wong and the company now has a 16-person team serving 60+ countries worldwide and over 1 million watches designed on the platform. They have gone from online-to-offline with a physical retail store and now also hold workshops and experiences for customers.

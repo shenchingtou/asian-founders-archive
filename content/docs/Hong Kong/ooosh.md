@@ -10,7 +10,7 @@ title: "Ooosh for Startups"
 By : Ten Tang
 Archive Date: July 4, 2018
 
-![Jeffrey, the founder of Ooosh](https://i0.wp.com/b3p0.org/wp-content/uploads/2018/07/jeffrey_oosh.jpg?fit=900%252C675&quality=95&ssl=1) 
+![Jeffrey, the founder of Ooosh](https://raw.githubusercontent.com/shenchingtou/asian-founders-archive/master/images/jeffrey_oosh.jpg) 
 
 客戶成功(Customer Success)不是軟件即服務(SaaS)的專屬名詞！一間在香港的共享工作室，亦憑著「客戶成功才是王道」的經營哲學，不但在短短兩年間擴展到觀塘，更加踩過界大搞私募基金和新創孵化器，致力培養本土的新創公司。這些都是Jeffrey和他的團隊努力的成果。
 
@@ -20,15 +20,11 @@ Ooosh for startup 在2016年成立，是一間紮根在荔枝角的共享工作�
 
 「剛開始的時候我們也不太清楚如何能夠幫助初創團隊，所以我常常強調，我們能做到的就是不要計較，我們的職責就是讓他們能夠在這個地方舒舒服服地工作。Be a giver。例如說有人要用會議室但沒有預約，我們會照讓他用，大家溝通好下次用前先預約就好了。」Jeffrey的giver哲學就為他贏了租客的心 — 不但有好幾個團隊打從Ooosh初開張的時候就一直在此工作至今，租客們都非常樂意向朋友介紹Ooosh 。
 
-![Ooosh members](https://i1.wp.com/b3p0.org/wp-content/uploads/2018/07/ooosh_member.jpg?resize=900%252C675&quality=95&ssl=1)
-
 #### 顧客的成功就是我的成功
 
 Jeffrey在經營Ooosh的時候，大部份的心思都花在如何讓租客可以「有嘢攞走」。而社群管理就是重要的一環。Jeffrey打從一開始就意識到社群的重要性，因為唯有當志同道合的人聚在一起的時候，才能帶起互相學習、互相支持的氛圍。所以Ooosh的團隊在找租客時，很有策略地對準科技新創：一來新創團隊的思想一般比較開明，二來新創團隊的工作很相類似，較容易有共同的話題。
 
 「我最開心的，不是簽了有多大的單，而是租客可以在Ooosh學習到新的知識、有新的啓發可以應用在業務上。」以Ooosh 開業以來最成功的例子，莫過於有位做產品採購的租客，在與其他租客交流時學到了不少軟件開發的知識，因而聘請了程式人員開發了一個簡化作業流程的軟件，拓展業務。
-
-![Ooosh place](https://i2.wp.com/b3p0.org/wp-content/uploads/2018/07/ooosh_place.jpg?resize=900%252C675&quality=95&ssl=1)
 
 #### 不要只往金錢看，顧客的素質也很重要
 
