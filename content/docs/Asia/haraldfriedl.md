@@ -8,23 +8,17 @@ title: "Social Impact Myanmar (SIM)"
 
 Archive Date: January 10, 2018
 
-![impact hub yangon harald friedl](https://i2.wp.com/b3p0.org/wp-content/uploads/2018/01/Social-impact-myanmar-Harald-Friedl-3989.jpg?fit=900%252C598&quality=95&ssl=1)
-
 [Social Impact Mynamar](https://www.facebook.com/socialimpactmyanmar/) and MVP development approaches to startup hubs, incubators, and ecosystem support in Yangon while waiting for market maturation.
 
 It was an unassuming white block for a meeting. It was behind a wall, up a teeny slope, and had a restaurant with a patio beside. When Harald came in, still caught in a phone meeting. He grinned an apologetic greeting, gestured to the menu and nodded a hello at the waitress who came around to take our order. When he was finally let go, he let out an emphatic sigh and instantly switched gears to shake hands. We were meeting to discuss impact investing, startups, and social innovation.
 
 ## From market surveys to MVP accelerator programs
 
-![startups myanmar](quiver-image-url/73CA40C9BAD9E5D240A5D929B89E1317.jpg)Startup ecosystem mapping in Yangon (2015)
-
 Harald had written [Starting Up in Myanmar: A First Guide](https://e27.co/wp-content/uploads/2014/11/Starting-Up-In-Myanmar-v2.pdf) in 2014, the first of its kind in a country that was just opening up to foreign investment and still cash-driven. That same year SIM cards sold in the black market for US$900 because the government had just started issuing them and was providing one to each family unit. When I visited in 2015, I could get a pay-as-you-go for US$5\. In one year, people had gone from no cell phones to using two in order to maximize coverage using one of the three available networks.
 
 Using his journalist and policy advising skills, Harald laid the groundwork for a new startup and innovation ecosystem: consolidating information. Right after giving me the report, which has lead to inquiries from overseas companies, he tells me it’s far from complete. But he had already started thinking about the next step: helping the entrepreneurs that he had interviewed address their struggles. He teamed up with [Klaus Oberauer](http://www.shapingtomorrowsworld.org/bio.php?u=324) and other business partners to work on a possible product available in other markets: an accelerator or entrepreneurship hub. I had visited during this time to help the team consider their MVP social accelerator options.
 
 ## Building MVP programs and ecosystems
-
-![startups myanmar](quiver-image-url/9B2AAC0A131C0F34FDAC006824C6384C.jpg)Discussing program possibilities for Social Impact Myanmar on a Yangon rooftop with a view. (2015)
 
 In 2015, the Social Impact Mynmar (SIM) team was just forming. The founding members wanted to work with local entrepreneurs and startups on an endless list of potential opportunities the newly opened market could fill. Creating a startup hub could accelerate innovation, but being a first mover before the market had enough infrastructure or critical mass would be ineffective.
 

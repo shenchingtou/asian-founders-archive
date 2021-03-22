@@ -9,7 +9,7 @@ title: "Root Impact in Seoul"
 
 Archive Date: May 16, 2019
 
-![HKelly Shin Root Impact](https://i0.wp.com/b3p0.org/wp-content/uploads/2019/05/Web-HKelly-Root-Impact-9163.jpg?fit=900%252C600&quality=95&ssl=1)
+![HKelly Shin Root Impact](https://raw.githubusercontent.com/shenchingtou/asian-founders-archive/master/images/Web-HKelly-Root-Impact-9161.jpg)
 
 Two years after [Root Impact](http://rootimpact.org/v2/intro.php) began working to support Changemakers, a pattern of barriers had emerged. By 2014, they began collaboratively designing a co-working space with its potential tenants, and launched [HEYGROUND](https://www.heyground.com/) in 2017 with over 90% occupancy. The 6000-square metre space has attracted the attention of mainstream media, companies like Patagonia, and South Korea’s sitting President Moon Jae-in. In 2018, we sat down with HKelly Shin from Root Impact to talk about HEYGROUND’s development and ongoing evolution.
 
@@ -37,7 +37,7 @@ After the community discussions and 1.5 years of construction, HEYGROUND opened 
 
 ## Prototyping value
 
-![heyground](quiver-image-url/1156F794BF4A79EC0BF7604DC14A763D.jpg)Image provided by Root ImpactHEYGROUND’s eight-storey building not only reflects the demands of tenants, but the principles that the Root Impact team and the Changemaker community have developed throughout their years of collaboration.
+HEYGROUND’s eight-storey building not only reflects the demands of tenants, but the principles that the Root Impact team and the Changemaker community have developed throughout their years of collaboration.
 
 On a basic level, HEYGROUND offers the usual co-working space hotdesks, private offices, common spaces and meeting rooms, a cafe and restaurant on the lower floors, and a rooftop event space. In addition, it offers the professional support requested during the design phase, such as access to free legal, accounting, and financial consulting.
 
@@ -63,7 +63,7 @@ The waitlist as a proven market demand is a growth scenario businesses would kil
 
 ## Co-working beyond a space
 
-![HEYGROUND event](quiver-image-url/D8A0C654AE4DE41740337C5CC5728A0E.jpg)Image provided by Root ImpactYet, this skepticism and humility can be harnessed as driving forces to continue observing and experimenting. The only way to do that is to have a HEYGROUND presence overseas. Presence does not necessarily mean a space, though that seems an inevitable next step. As the Global Partnerships Director, HKelly travels regularly to build ties with communities abroad, in places like Hong Kong, Shanghai, Taipei, Berlin, and Singapore. But again, global co-working visas are not unique to HEYGROUND. What is unique is how HKelly approaches global ground building. She does this by storytelling, often including companies that are not HEYGROUND members in presentations. “We have a broad definition of community,” she says casually. As long as a company is trying to create a positive impact, she sees them as a member of the Changemaker movement and connects them to resources.
+Yet, this skepticism and humility can be harnessed as driving forces to continue observing and experimenting. The only way to do that is to have a HEYGROUND presence overseas. Presence does not necessarily mean a space, though that seems an inevitable next step. As the Global Partnerships Director, HKelly travels regularly to build ties with communities abroad, in places like Hong Kong, Shanghai, Taipei, Berlin, and Singapore. But again, global co-working visas are not unique to HEYGROUND. What is unique is how HKelly approaches global ground building. She does this by storytelling, often including companies that are not HEYGROUND members in presentations. “We have a broad definition of community,” she says casually. As long as a company is trying to create a positive impact, she sees them as a member of the Changemaker movement and connects them to resources.
 
 Key in “social enterprise” on Naver Search, Korea’s Google, and you will find over 600 articles about HEYGROUND. Such a building is not only a landmark accomplishment, but has become a landmark location that gathers emerging startups, opinionated companies like Patagonia, and even dignitaries such as South Korean sitting President Moon Jae-in and the King of Belgium.
 
