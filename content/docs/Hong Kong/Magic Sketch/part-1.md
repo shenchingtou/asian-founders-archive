@@ -9,7 +9,7 @@ title: "Part 1: Monetisation"
 
 Archive Date: February 22, 2018
 
- ![James Tang UX designer magic mirror magic sketch](https://i2.wp.com/b3p0.org/wp-content/uploads/2018/02/Startups-and-Founders-HK-9057.jpg?fit=900%252C900&quality=95&ssl=1) 
+ ![James Tang UX designer magic mirror magic sketch](https://raw.githubusercontent.com/shenchingtou/asian-founders-archive/master/images/Startups-and-Founders-HK-9057.jpg) 
 
 *Part 1 of an interview with UX/UI designer and solopreneur, James Tang, creator of the Sketch plug-in [Magic Mirror](http://magicsketch.io/mirror/) (now [Magic Sketch](http://magicsketch.io/)). This interview was conducted in Cantonese, with the English version is a translation with approval from James. Part 1 covers James’ journey in experimenting with ways to generate income after leaving a paid job in Hong Kong’s startup scene.*
 

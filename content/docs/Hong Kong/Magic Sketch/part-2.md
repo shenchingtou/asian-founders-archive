@@ -9,7 +9,7 @@ title: "Part 2: Pivot"
 
 Archive Date: February 25, 2018
 
- ![Magic Mirror Sketch plugin James Tang Blueprint Hong Kong Coworking space](https://i2.wp.com/b3p0.org/wp-content/uploads/2018/02/Startups-and-Founders-HK-9070.jpg?fit=900%252C598&quality=95&ssl=1) 
+ ![Magic Mirror Sketch plugin James Tang Blueprint Hong Kong Coworking space](https://raw.githubusercontent.com/shenchingtou/asian-founders-archive/master/images/Startups-and-Founders-HK-9070.jpg) 
 
 ***Part 2 of an interview with UX/UI designer, James Tang, creator of the Sketch plug-ins [***Magic Sketch***](http://magicsketch.io/) and [***Magic Presenter***](http://magicsketch.io/)***). This interview was conducted in Cantonese and translated into English. In [Part 1](https://wp.me/p9ydA1-f2), we covered James’ experiments, learnings, and failures before he arrived at his first hit product, Magic Mirror. In Part 2, James shares how he started working on his product and his early mistakes that taught him how to create revenue in hopes that other fellow developers, UX designers, and entrepreneurs can successfully build their ideas.
 
