@@ -9,11 +9,7 @@ title: "What is an Impact Maker?"
 
 Archive: March 26, 2018
 
-![impact hub tokyo impact maker](https://i2.wp.com/b3p0.org/wp-content/uploads/2018/03/P_20160309_1709551.jpg?fit=900%252C506&quality=95&ssl=1)
-
 ## Questioning + Action = Impact
-
-![impact hub tokyo questioning action impact](quiver-image-url/25E327E263191A8720C6881679DF819C.jpg)Image courtesy of Impact HUB Tokyo
 
 In February 2013, Impact HUB Tokyo had begun renovations a former print factory’s ground floor. After surviving for two years, co-founders Shino and Shingo, painted the words “Questioning + Action = Impact” on the building’s white wall. The words embody the ethos of the company: it is only though questioning the status quo that we can begin to take action. From this, the actions create the programs and organisations that make a positive impact on society. They were convinced that this equation reflected the shared values of the people from all walks of life who gathered at Impact HUB Tokyo.
 
@@ -23,23 +19,15 @@ Impact Makers are not restricted to an industry or position. They are not only f
 
 ## Impact that can change the course of a river
 
-![impact hub tokyo founder](quiver-image-url/335C99EF083DAEA2CA8CBC961441752D.jpg)Image courtesy of Impact HUB Tokyo
-
 Why is the Impact HUB Tokyo focused on impact? The seeds of this mission were sown before the two founders founded the organization, which itself is a social enterprise. One of the founders, Shino previously worked for international NGOs and a think tank, and also did social and environmentally responsible investments (impact investment) in developing countries and EU, and business development and R&D projects in foreign countries. She first learned about the Impact HUB during her time in the UK. The first Impact HUB opened its doors in Islington, in the North of London and has since spread globally, attracting entrepreneurs working to create positive impacts in their respective regions and communities.
 
 Shino visited various Impact HUBs and noted their distinct characters. For example, the first Impact HUB in Islington had many social entrepreneurs and environmental activists. At the Impact HUB SF, there were venture capitalists who made investments in startups successively. Shino spent much of her time at Impact HUB Westminster in Central London. There, she found not only entrepreneurs, but also hackers, engineers, designers, who worked on new collaborations every day.
-
-![impact hub tokyo](quiver-image-url/B91BAE20F41366A23588023FA7B6015C.jpg)Image courtesy of Impact HUB Tokyo
 
 Shino was thinking it was not only the people engaged in poverty and education that could throw controversy to society. Entrepreneurs pioneering robotics and artists revealing the world’s hypocracies can also change society. Shino felt that Japan also needed an open place to house an entrepreneurial community and attract like-minded people to build connections. So, when she returned to Tokyo, she founded the Impact HUB Tokyo.
 
 Impact HUB Tokyo does not believe that impact is created by the lone hero. If one were to imagine how a river flows, the course of a river is changed by the complex interactions it has with the natural environment. Societal norms can also shift as the result of an accumulation of bold actions. As individuals who make up society, it is within our power to to create a big wave (critical mass) of questioning that triggers a change in direction. We can persist in working on disruptive impact until the course of the river changes. This scene plays out every day at the Impact HUB Tokyo makes, and is the enabling environment Shino had envisioned.
 
-![tokyo mountain](quiver-image-url/A1AB1E09E743BC66A2096274CF919DAB.jpg)Image courtesy of Impact HUB Tokyo
-
 ## World-Class entrepreneurship, Japanese style
-
-![impact hub tokyo founder](quiver-image-url/A65A73F1C52EB12F1136240BBC48DA44.jpg)Image courtesy of Impact HUB Tokyo
 
 The Impact HUB Tokyo’s other founder, Shingo Potier, brings another set of experiences. Shingo previously worked at a financial institution in London and worked with local start-ups. Shingo had the opportunity to support a Japanese startup and discovered the lack of support for entrepreneurs in the country. He found that while there were passionate entrepreneurs, there were few visionary “game changers” who could disrupt existing industries. He found Japanese entrepreneurs to prefer safe harmony that fitted into existing norms rather than innovation, too complacent for him.
 
@@ -51,13 +39,9 @@ Around that time, he met Impact HUB Tokyo. He joined as a financial specialist, 
 
 ## Be the change
 
-![impact hub tokyo be the change](quiver-image-url/E1CA38A3320EBC30BA65BF07ADDB2738.jpg)Image courtesy of Impact HUB Tokyo
-
 Both founders agree that for an Impact Maker a change is neither a trend to follow, nor even an attempt to change another person.” Rather, in the words of Gandhi,“Be the change that you wish to see in the world.” The only thing we can reliably do is change ourselves and embody the change that we wish to see in the world.
 
 Just like the Impact Makers who come every day, the Impact HUB Tokyo is constantly growing. The activities, ways of connecting, and space layout are constantly evolving. The only thing that remains unchanged for the Impact HUB Tokyo community is the constant process of change itself.
-
-Learn more about Impact HUB Tokyo’s culture in [Impact HUB Tokyo: What’s a Basecamp](https://b3p0.org/2018/impact-hub-tokyo-startup-basecamp).
 
 ---
 

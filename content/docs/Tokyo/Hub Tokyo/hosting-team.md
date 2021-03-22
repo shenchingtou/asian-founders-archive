@@ -7,20 +7,15 @@ title: "The hosting team and members"
 
 # The hosting team and members
 
-BY : [ATHENA](https://b3p0.org/author/piccoloportfolios/) [June 19, 2018](https://b3p0.org/2018/impact-hub-tokyo-hosts-story-vol-2-1/)
-
-![misaki iwai impact hub tokyo](https://i0.wp.com/b3p0.org/wp-content/uploads/2018/06/2018-Impact-Hub-Tokyo-Web-5657.jpg?fit=900%252C597&quality=95&ssl=1)
 
 ## A facilitator of a community “Hosting team”
 
-![impact hub tokyo entrepreneurs](quiver-image-url/7BE7F6CB961F131671C92924D0FB8B4D.jpg)Source: Impact Hub Tokyo
 Impact HUB Tokyo is a co-working place where Impact Makers get together. Various initiatives are created in order to facilitate collaboration between members. In [Part 1](https://b3p0.org/2018/impact-hub-tokyo-host-story-1/), we covered how the design of the space, facilities, and furniture can support innovation. However, no matter how amazing the space is or how many strangers are gathered together…that alone isn’t enough for innovation. In order to new approaches, the “software” needs to be added to the existing “hardware”. In other words, there has to be a system that helps foster relationships between members to become a networked community. For this post, we will introduce the Impact HUB Tokyo’s “hosting team” that curates, supports, and nurtures this community ecosystem.
 
 The Impact HUB Tokyo’s hosting team acts as a community facilitator. This role has multiple facets, but it could be divided roughly into two types. The first one is the role as the administrator to ensure that members using the co-working space can work comfortably. A host is crucial to help minimize distractions for members who want to focus. For example, the responsibilities can range from booking meeting rooms, to explaining how to use facilities and trouble shooting equipment for members. A host is there to help address issues so that members don’t have to break the flow of their work.
 
 ## Community is bound by “why” not “what”
 
-![spark plug impact hub tokyo](quiver-image-url/CE2FBAD2710D625E48DBB5269974B513.jpg)Source: Impact Hub Tokyo
 Another key role for the hosting team is facilitation to proactively nurture an active community. Communities can exist without a host, but a host can help identify appropriate initiatives, foster positive energy, and inspire the community with new ideas. One of the hosts who specializes in cross-cultural communication, Misaki Iwai, describes the role as follows:
 
 “A host is like catalyst for the Impact HUB Tokyo community. We support new members so that they can be get used to the environment easily. Our role is to bring the right mix of people together, the way chemists invent new compounds. Through our daily interactions with members, we know their priorities and challenges and connect them to the relevant Hub members at the right time. If members have the same challenge, we may create events or offer a team learning session.”

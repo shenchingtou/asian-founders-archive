@@ -13,15 +13,12 @@ Archive date: April 2, 2018
 
 ## The Basecamp for Extreme Climbers
 
-![](quiver-image-url/F0E58C85FE0D7E5BF6DB3DAB1A483BE7.jpg)Image courtesy of Impact HUB Tokyo
 
 What differentiates the Impact HUB Tokyo other investor and VC-backed co-working spaces and incubators? The founders, Shino and Shingo, describe their role as a basecamp for alpine climbers. The Impact Makers who question the status quo and take action to create the change they want to see in the world are like the climbers who scale the summits to see the glorious panoramas below. Like these alpine basecamps, Impact Makers also need their basecamp to summit a mountain no-one else has yet charted.
 
 What basecamp essentials are needed to serve an Impact Maker? The most important component is whatever helps them maximize their effectiveness (output). To facilitate this, workspaces are designed to attract and foster quality. Such a space is designed to support entrepreneurial productivity, but also help these changemakers relax. For that reason, a lounge, kitchen space, cafe, and other facilities play an important role to restore their energy for the long-haul.
 
 ## Tangible and intangible inputs for high-quality output
-
-![wwf team 360 sustainable fishing japan](quiver-image-url/FF9077F4E54D3879925E055AC9EE0FAC.jpg)Image courtesy of Impact HUB Tokyo
 
 Maintaining high quality performance can only happen with equally high quality inputs. Even the most resolved Impact Maker will encounter huge setbacks with a half-baked roadmap or inadequate equipment and know-how. For this reason, the Impact HUB Tokyo’s founders initially focused on support programs for startups. Even after running for several years, the Impact HUB Tokyo continues to research startup trends in Japan and globally to update and introduce new [accelerator programs](https://hubtokyo.com/accelerator-list/) in Tokyo and in Japan.
 
@@ -30,8 +27,6 @@ Also, quality learning is made possible through frequent community experience an
 In practice, the Impact HUB Tokyo facilitates sharing for general and specific experiences, ideas as well as professional tips on a daily basis. Sometimes, it’s a casual chat in the lounge space, but the organisation also hosts a [variety of events](https://hubtokyo.com/events/). The events are not only the official events hosted by Impact HUB Tokyo staff, but also casual events that members initiate. This atmosphere demonstrates the Impact HUB Tokyo’s grassroots, organic community growth.
 
 ## The Common core in Impact HUB Tokyo’s programs
-
-![social entrepreneurs tokyo founders meetup](quiver-image-url/431C09B5FD295D85C877634B07FC4282.jpg)Image Courtesy of Impact HUB Toky
 
 That sums up the various aspects of the organic design behind our programs that make this space a basecamp for Impact Makers. Next, we will introduce the Impact HUB Tokyo’s highlight programs.
 
@@ -54,11 +49,7 @@ For this reason, Impact HUB Tokyo also places an emphasis on post-program suppor
 
 ## Not just a co-working space
 
-![community event](quiver-image-url/FC685E6A92F13C80AA26A80327AEF734.jpg)Courtesy of Impact HUB Tokyo
-
 As a basecamp for the arduous climb that is entrepreneurship, the Impact HUB Tokyo helps these courageous climbers create innovative solutions by providing the tangible and intangible support to help them rest and recharge — though it’s a lot of work, this comprehensive design is a solid foundation. In order to amplify the impact of the people who gather here, the Impact HUB Tokyo creates both hard and soft supports in its community and space design.
-
-Learn more about the [Impact Makers](https://b3p0.org/2018/impact-hub-tokyo-impact-maker) that make up Impact HUB Tokyo’s dynamic entrepreneurial community.
 
 ---
 
