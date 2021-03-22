@@ -62,7 +62,7 @@ The original idea came from a reader who said they loved my blog, but requested 
 
 **So when did you go full-time?**
 
-August 2014\. I started to hire freelance writers and began focusing on writing my own book. Before that, I read everything that Nathan Barry wrote. Nathan doesn’t write blogs much anymore, but he also developed a business model where he teaches people how to code and he shared how much revenue he makes. He still does. I read his entire guide before I wrote my book.
+August 2014. I started to hire freelance writers and began focusing on writing my own book. Before that, I read everything that Nathan Barry wrote. Nathan doesn’t write blogs much anymore, but he also developed a business model where he teaches people how to code and he shared how much revenue he makes. He still does. I read his entire guide before I wrote my book.
 
 ![ooosh starups](https://i0.wp.com/b3p0.org/wp-content/uploads/2018/04/Web-Simon-Ng-AppCoda-6159.jpg?resize=900%252C598&quality=95&ssl=1)Simon grew his content ecosystem from online to offline — Photo by Athena Lam
  If you have friends creating content, send this post to them so that they can also be inspired to monetize their creations!
