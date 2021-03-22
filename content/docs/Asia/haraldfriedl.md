@@ -8,6 +8,8 @@ title: "Social Impact Myanmar (SIM)"
 
 Archive Date: January 10, 2018
 
+![Harald Friedl cofounder of impact hub yangon](https://raw.githubusercontent.com/shenchingtou/asian-founders-archive/master/images/Social-impact-myanmar-Harald-Friedl-3989.jpg)
+
 [Social Impact Mynamar](https://www.facebook.com/socialimpactmyanmar/) and MVP development approaches to startup hubs, incubators, and ecosystem support in Yangon while waiting for market maturation.
 
 It was an unassuming white block for a meeting. It was behind a wall, up a teeny slope, and had a restaurant with a patio beside. When Harald came in, still caught in a phone meeting. He grinned an apologetic greeting, gestured to the menu and nodded a hello at the waitress who came around to take our order. When he was finally let go, he let out an emphatic sigh and instantly switched gears to shake hands. We were meeting to discuss impact investing, startups, and social innovation.

@@ -9,7 +9,7 @@ title: "Part 1: Starting"
 
 Archive Date: January 18, 2018
 
-![yangon social enterprise founder startup](https://i1.wp.com/b3p0.org/wp-content/uploads/2018/01/20150515-Yangon-Helping-Hands-Annie-3977.jpg?fit=900%252C598&quality=95&ssl=1)
+![yangon social enterprise founder startup](https://raw.githubusercontent.com/shenchingtou/asian-founders-archive/master/images/20150515-Yangon-Helping-Hands-Annie-3977.jpg)
 
 How dogged persistence in prototyping for a personal project grew into minimum viable product (MVP) and became a social enterprise called [Helping Hands Yangon](http://www.helpinghandsyangon.org/). Learn how Annie founded this self-sustaining business after realizing there was demand in Myanmar for teak furniture and local Burmese handicrafts.
 
@@ -17,23 +17,17 @@ The women looked from their sewing machines to see who had walked through the 10
 
 One woman with a serene smile approached me and asked if I was looking for someone. Within seconds, I heard a voice ricocheting through the cavernous ceiling and archways. It was Annie’s characteristic deluge of enthusiasm for something in the works. I said I had a meeting with the owner of the voice. This was her house, and also the headquarters for three NGOs/social enterprises that worked with Yangon’s street kids, ex-addicts, single mothers, and differently-abled.
 
-![local yangon myanmar travel](https://i1.wp.com/b3p0.org/wp-content/uploads/2018/01/Helping-Hands-Yangon_4222.jpg?resize=900%252C506&quality=95)Interviewing Annie in her house which doubled as a workshop for Helping Hands — Photo by Athena Lam
-
 Annie (I’m only using her given name to protect her privacy) drifted over to greet me, apologizing for taking a few extra minutes to wrap up another project meeting. Would I like a drink while waiting?
 
 By the time I finished scanning her bookshelf, she had brought me a cup of coffee and we headed upstairs for a chat about her projects. After settling into the rattan chairs, Annie recounts her experiences in Yangon on the veranda with a view of the landscaped garden and garage-workshop I had walked past.
 
 ## The origins of accidental business
 
-![Helping Hands Yangon teak furniture](https://i0.wp.com/static1.squarespace.com/static/56a5b01876d99c63268c03da/56a5b154dc5cb49acf05ded4/56a5d4da05f8e21e95583334/1453708529244/20110328_Sh02_0328.jpg?resize=900%252C814&quality=95&ssl=1)Local Burmese artisan refurbishing second-hand teak furniture — Photo Credit: Helping Hands
-
 By the time I met with Annie in 2015, she was already well known for two social enterprises in Yangon: [Helping Hands Yangon](http://www.helpinghandsyangon.org/) and [Pomelo for Mynamar](http://pomeloformyanmar.org//). She wanted to brainstorm scaling solutions for the NGOs and businesses she’d co-founded, as “business wasn’t her thing”. But, she had nonetheless stumbled on a product-market fit by naturally creating self-sustaining businesses to meet the demand and create job opportunities for locals. Why was business so natural for a self-professed NGO person more interested in discussing the nuance of social challenges locals face?
 
 Our hour-long afternoon discussion passed the golden hours as we delved into her journey as an unwitting female entrepreneur. Annie’s original two-year stay was approaching its seventh year by 2015\. When she had first arrived, she had one major problem she worked on with dogged determination: furnishing her house.
 
 ## A personal passion makes an unwitting prototype
-
-![myanmar social enterprise](https://i2.wp.com/b3p0.org/wp-content/uploads/2018/01/Helping-Hands-Yangon05341.jpg?resize=900%252C506&quality=95)Handmade bags by local Burmese at Helping Hands — Photo by Athena Lam
 
 In 2008, Myanmar was still a closed economy and importing foreign furniture was not an option, or too expensive to be one. But there was no shortage of local supply. Teak furniture was lying around as discards because locals were tired of using the material. Though Annie could pick up used tables off the streets, she couldn’t use them. The weather-worn teak needed to be properly refurbished.
 
@@ -45,8 +39,6 @@ Annie’s refurbished furniture caught attention. The pieces I saw sitting in he
 
 ## Growing product lines
 
-![sule pagoda yangon myanmar travel](https://i2.wp.com/b3p0.org/wp-content/uploads/2018/01/Yangon_4184.jpg?resize=900%252C506&quality=95)Getting to know local Yangon on foot and by bus — Photo by Athena Lam
-
 Forming the organization after the orders had become regular gave Annie and her team of artisans the space to organically grow without pressure to make ends meet. Every order that came in allowed them to refine aspects of the business such as the refurbishment process, taking orders, managing customer expectations, and also finding new apprentices. The modest growth also gave room for another development to take hold: expanding to another product line by employing seamstresses to create tote bags, tunics and other textiles.
 
 ## Bringing a product to customers
@@ -56,8 +48,6 @@ Now, with formal operations and more streamlined goods, Annie began to think bey
 In a country without regularly accessible or stable internet until around 2014, a traditional shop seemed like the next evolution of this business. In 2011, Annie and her business partner co-founded [Pomelo for Mynamar](http://pomeloformyanmar.org//), a retail store to showcase pieces created at Helping Hands as well as products from other Burmese artisan groups in rural areas.
 
 ## Distilling the unique value proposition to scale
-
-![myanmar handicrafts souvenirs pomelo](https://i1.wp.com/b3p0.org/wp-content/uploads/2018/01/Helping-Hands-Yangon_4214-576x1024.jpg?resize=576%252C1024&quality=95)The entrance alcove is an informal shop corner for handmade shirts — Photo by Athena Lam
 
 Helping Hands now employs over 50 artisans and ex-street youth. Annie recognizes that establishing her Helping Hands early has given her an unwitting first-mover advantage. She is tempted by the opportunities to scale the positive impact on the communities, but recognizes the inherent risks of preserving the organization’s original culture and value propositions.
 

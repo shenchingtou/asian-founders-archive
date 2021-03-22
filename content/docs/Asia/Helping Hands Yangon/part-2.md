@@ -9,9 +9,9 @@ title: "Part 2: Recruiting Talent"
 
 Archive Date: February 21, 2018
 
-![yangon social enterprise founder startup](https://i1.wp.com/b3p0.org/wp-content/uploads/2018/01/20150515-Yangon-Helping-Hands-Annie-3977.jpg?fit=900%252C598&quality=95&ssl=1)
+![yangon social enterprise founder startup](https://raw.githubusercontent.com/shenchingtou/asian-founders-archive/master/images/20150515-Yangon-Helping-Hands-Annie-3977.jpg)
 
-This is Part 2 of an interview with Annie, co-founder of the Myanmar startup and social enterprise [Pomelo for Myanmar](https://www.facebook.com/pomeloformyanmar/?fref=ts). She shares how she crossed cultural divides to work with and hire local Burmese artisans, street youth, and single mothers. In [Part 1](https://b3p0.org/2018/helping-hands-yangon-pomelo-social-enterprise-myanmar/), Annie shared how she developed her product for her first social enterprise, Helping Hands Yangon. Part 2 covers how she grew a business by creating a unique company culture that helped talent acquisition and retention for Burmese locals. Only her given name is used for privacy reasons.
+This is Part 2 of an interview with Annie, co-founder of the Myanmar startup and social enterprise [Pomelo for Myanmar](https://www.facebook.com/pomeloformyanmar/?fref=ts). She shares how she crossed cultural divides to work with and hire local Burmese artisans, street youth, and single mothers. In Part 1, Annie shared how she developed her product for her first social enterprise, Helping Hands Yangon. Part 2 covers how she grew a business by creating a unique company culture that helped talent acquisition and retention for Burmese locals. Only her given name is used for privacy reasons.
 
 **Overview points:**
 
@@ -26,23 +26,17 @@ This is Part 2 of an interview with Annie, co-founder of the Myanmar startup and
 
 In the sultry heat of Yangon’s afternoon, I walked down windy streets flanked with food stalls, garbage collection carts, and leafy palms. I entered the open gates, spied a carpenter sprawled on top of a table he was working on, passed wirey boys with chocolate skin and oversized t-shirts kicking around a football. More young boys emerged from corners and various parts of the garden, marching purposefully through the lawn. I was meeting with Annie to map out the core value propositions for her two social enterprises using the [Business Model Canvas](https://strategyzer.com/canvas/business-model-canvas).
 
-![local yangon ngo](quiver-image-url/D31A3FF0933614E45F1BE17C2854EFAF.jpg)Boys taking a break after school and work — Photo by Athena Lam
-
 What preoccupied Annie when we spoke in 2015 was how to expand impact by growing those businesses while protecting the organizational culture that attracted people in the first place. In addition to the challenges of building those businesses, Annie had huge hurdles finding and keeping local employees despite what seemed like attractive working conditions. Over the course of the afternoon, she explained how [Helping Hands Yangon](http://www.helpinghandsyangon.org/) and [Pomelo for Myanmar](https://www.facebook.com/pomeloformyanmar/?fref=ts) evolved and why she was cautious about business expansion.
 
 ## **Bringing your goods to customers**
 
-![pomelo yangon myanmar social enterprise](quiver-image-url/754970E610B1EEA388EDD3CD99E30FD1.jpg)Handmade tote bags at Myanmar startup Helping Hands Yangon — Photo by Athena Lam
-
-After founding Helping Hands (covered in [Part 1](https://b3p0.org/2018/helping-hands-yangon-pomelo-social-enterprise-myanmar/)), Annie and her co-founder established [Pomelo](https://www.facebook.com/pomeloformyanmar/?fref=ts), a retail shop that was a natural upstream expansion to retail for the furniture and textile pieces her first social enterprise produced. [Pomelo](https://www.facebook.com/pomeloformyanmar/?fref=ts) goes beyond being the traditional social enterprise retail shop set up with donor funds to sell artisan handicrafts. The store’s self-financed model means it has to run like a traditional business keeping itself afloat with sales. Sales come when the products are useful or resonate with buyers, and when store staff can effectively engage shoppers. The sales staff are securing their own pay cheques by helping generate revenue and the artisan groups supplying the shop know future orders are dependent on continued production of high quality products. The profits from sales are distributed back to the artisans and staff, creating a direct link between effort and reward, and a feedback loop for trying new products, and customer reception.
+After founding Helping Hands (covered in Part 1), Annie and her co-founder established [Pomelo](https://www.facebook.com/pomeloformyanmar/?fref=ts), a retail shop that was a natural upstream expansion to retail for the furniture and textile pieces her first social enterprise produced. [Pomelo](https://www.facebook.com/pomeloformyanmar/?fref=ts) goes beyond being the traditional social enterprise retail shop set up with donor funds to sell artisan handicrafts. The store’s self-financed model means it has to run like a traditional business keeping itself afloat with sales. Sales come when the products are useful or resonate with buyers, and when store staff can effectively engage shoppers. The sales staff are securing their own pay cheques by helping generate revenue and the artisan groups supplying the shop know future orders are dependent on continued production of high quality products. The profits from sales are distributed back to the artisans and staff, creating a direct link between effort and reward, and a feedback loop for trying new products, and customer reception.
 
 The decision to open a store was also timely. In 2011, Myanmar [began its political reforms](https://en.wikipedia.org/wiki/2011%E2%80%9315_Myanmar_political_reforms) to open its economy, which paving the way for investment and tourism. In fact, the economy and tourism exploded. Tourism traffic [jumped 29.72%](http://tourism.gov.mm/wp-content/uploads/2017/08/Myanmar-Tourism-Statistics-2016-1.pdf) between 2011-12 from 816,369 to 1,058,995\. Between 2011 to 2015, inbound tourism had double-digit year-on-year growth to peak at 4,681,020 annual visitors. As a first-mover in retailing local handicrafts, Pomelo was on Google Maps and searches by the time tourists started looking up Myanmar and locals started using smartphones.
 
 Though having a shop that employed, trained, and “empowered” local staff sounds like a perfect textbook employer, Annie was not flooded with job applications. On the contrary, she had to negotiate with virtually all of her staff, from Helping Hands through to Pomelo. Why?
 
 ## **Giving employees value that salaries alone cannot buy**
-
-![Yangon](quiver-image-url/D5793F79E9ABA95A52DD6704DEAFF322.jpg)Colourful colonial houses in downtown Yangon — Photo by Athena Lam
 
 “Cultural gap” is often the blamed culprit for things not working out between people. What was the cultural gap that made Helping Hands and Pomelo seem attractive to us in theory, but not to local Burmese?
 
@@ -67,7 +61,7 @@ When recounting that latest headache, Annie had sighed with exasperation, but no
 
 ## **Introducing trust as a currency**
 
-![Yangon](quiver-image-url/7720A697DD464EDFDF0003D421C88BA4.jpg)Since opening up in 2011, Yangon has rapidly gained modern amenities like electricity, cell phones, and WiFi — Photo by Athena Lam
+Since opening up in 2011, Yangon has rapidly gained modern amenities like electricity, cell phones, and WiFi — Photo by Athena Lam
 
 People often have good reason to not jump on “great ideas” the way people reflexively do in Silicon Valley. Like Annie’s employees, they have their own problems to deal with. Before judging someone for not jumping on board, Annie asked questions that helped her decide how act:
 
@@ -88,6 +82,5 @@ But perhaps the crux of “scalable” trust is not in thinking about replacing 
 
 When I entered and when I finally left at dusk, the people around the estate were not being kept track of. They didn’t have to be.
 
-![shwedagon pagoda yangon](quiver-image-url/7F974E25AF890BA5FC0A8A5FB41EF2BA.jpg)Shwedagon Pagoda at sunset — Photo by Athena Lam
 
 Check out the furniture currently available at the Helping Hands [Facebook page](https://www.facebook.com/helpinghandsyangonfurniture) and the [artisan groups](http://pomeloformyanmar.org/artisans/) Pomelo for Myanmar works with.
