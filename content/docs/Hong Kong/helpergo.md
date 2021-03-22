@@ -18,8 +18,6 @@ It wasn’t failing his first startup, or his second startup, that taught Sam Ng
 
 Sam Ng’s journey to [HelperGo](https://www.helpergo.co/) was not a straightforward one. Born in Hong Kong, he had spent over a decade in Australia, studied engineering, and worked in the industry before returning to his home city. By 2013, he had a secure full-time job and the startup market was already hot — not a good time for a newbie to wade in. He kept his job through his first two startup attempts and he cited lack of focus and software QA issues from outsourcing that resulted in failures. Undeterred, Sam pitched a third idea to the Hong Kong Science and Technology Park (HKSTP), where it got funding. Taking his previous learnings to heart that a startup needed full-time commitment, Sam quit his FinTech job to work with his two co-founders on this third idea.
 
- ![helpergo hong kong chinese](https://i0.wp.com/b3p0.org/wp-content/uploads/2018/10/helpergo-landing-page-chinese.png?resize=900%252C454&quality=95&ssl=1)Source: HelperGo website 
-
 We interviewed Sam from the office of his fifth startup, located at Sheung Wan’s NakedHub. We drilled down into his approach to building product for HelperGo, an online marketplace app for home services. We conducted the interview in Cantonese. Below, are Sam’s answers to how HelperGo evolved as a marketplace product that people will pay for.
 
 ### **What counts as “product” to you?**
