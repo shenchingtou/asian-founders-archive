@@ -5,5 +5,5 @@ description = "An archive of product and business development experiences from s
 theme = "book"
 
 publishDir = "docs"
-googleAnalytics = ""
+googleAnalytics = "UA-117941752-1"
 
