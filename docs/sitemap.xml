@@ -84,6 +84,16 @@
   </url>
   
   <url>
+    <loc>https://shenchingtou.github.io/asian-founders-archive/posts/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shenchingtou.github.io/asian-founders-archive/posts/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://shenchingtou.github.io/asian-founders-archive/docs/tokyo/</loc>
   </url>
   
@@ -103,6 +113,71 @@
   </url>
   
   <url>
+    <loc>https://shenchingtou.github.io/asian-founders-archive/posts/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shenchingtou.github.io/asian-founders-archive/posts/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shenchingtou.github.io/asian-founders-archive/categories/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shenchingtou.github.io/asian-founders-archive/categories/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shenchingtou.github.io/asian-founders-archive/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shenchingtou.github.io/asian-founders-archive/posts/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shenchingtou.github.io/asian-founders-archive/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shenchingtou.github.io/asian-founders-archive/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shenchingtou.github.io/asian-founders-archive/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shenchingtou.github.io/asian-founders-archive/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shenchingtou.github.io/asian-founders-archive/tags/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shenchingtou.github.io/asian-founders-archive/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shenchingtou.github.io/asian-founders-archive/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://shenchingtou.github.io/asian-founders-archive/docs/asia/</loc>
   </url>
   
@@ -116,14 +191,6 @@
   
   <url>
     <loc>https://shenchingtou.github.io/asian-founders-archive/docs/tokyo/hub-tokyo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://shenchingtou.github.io/asian-founders-archive/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://shenchingtou.github.io/asian-founders-archive/tags/</loc>
   </url>
   
 </urlset>
