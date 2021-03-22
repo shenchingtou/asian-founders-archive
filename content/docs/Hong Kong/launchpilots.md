@@ -9,7 +9,7 @@ title: "LaunchPilots"
 
 Archive Date: April 22, 2018
 
- ![launchpilots founder](https://i0.wp.com/b3p0.org/wp-content/uploads/2018/04/launchpliots1.jpg?fit=900%252C598&quality=95&ssl=1) 
+ ![launchpilots founder](https://raw.githubusercontent.com/shenchingtou/asian-founders-archive/master/images/%5BWeb%5D%20Hong%20Kong%20Founders%20Walk-6177.jpg) 
 
 In 2011, Jah Ying Chung had organized 300 activities across 20 provinces in China for an NGO, and also helped university student groups get sponsorships from brands like Nike. Getting sponsorships was a common painpoint for all student group and Jah Ying realized there was a market need. She first addressed this need by setting up an NGO that ran workshops to support student organisers and eventually pivoted to an online marketplace. Launchpilots as a platform was launched in 2012 and rapidly expanded to China, and was acquired by Robin 8 in 2017\. This post documents documents the first stage of Launchpilot’s many iterations towards product market fit that attracted angel investment.
 
@@ -51,11 +51,11 @@ By the time they graduated from the accelerator, Launchpilots already had a smal
 
 ## Narrowing down core products for brand-student engagement success
 
-![launchpilots hong kong startup](https://i2.wp.com/b3p0.org/wp-content/uploads/2018/04/APWB_Athena_Lam_20180430-.009.jpeg?resize=900%252C506&quality=95&ssl=1)Screenshot of Launchpilots’ website and student-led Facebook campaigns.
+![launchpilots hong kong startup](https://raw.githubusercontent.com/shenchingtou/asian-founders-archive/master/images/Launchpilots%20screencap%202018-04-12%20at%207.54.30%20AM.png)Screenshot of Launchpilots’ website and student-led Facebook campaigns.
  With its first few brands signed on, LaunchPilots was able to close its first round of funding shortly after graduating from China Accelerator in the Fall of 2013\. The round of angel investors were impressed by Jah Ying’s ability to execute, from signing on brands to sharing weekly results. The Launchpilot Weekly Update e-mails included clear updates on investment, talent recruitment, focus of the week, product development, customer development, student user growth, and hypotheses for new experiments and campaigns. These reflections and proactive engagements encouraged supporters to make investor or business referrals even when they were not directly involved in the funding round.
 
 After the funding round closed, the cash injection helped Launchpilots grow the team to scale the business and streamline the sponsorship process. Jah Ying had already been identifying potential team members who she thought had a mission and cultural fit and would also fulfil key business development, student growth, and engineering roles.
 
 In 2014, Launchpilots was rapidly expanding from Hong Kong to China and Taiwan, two markets that had their own needs and opportunities. Jah Ying had brought on a full-time team in China and was two part-time team members in Taiwan. The company’s next step would be to figure out whether it could offer streamlined products for brands across the three markets. Stay tuned for Part 2!
 
-![launchpilots hong kong](https://i2.wp.com/b3p0.org/wp-content/uploads/2018/04/launchpliots2.png?resize=900%252C493&quality=95&ssl=1)
+![launchpilots hong kong](https://raw.githubusercontent.com/shenchingtou/asian-founders-archive/master/images/Launchpilots%20screencap%202018-04-12%20at%207.55.34%20AM.png)

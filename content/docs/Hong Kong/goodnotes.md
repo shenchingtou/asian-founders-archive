@@ -9,7 +9,7 @@ Date: 2019-05-02
 
 Archive date: May 2, 2019
 
-![](https://i0.wp.com/b3p0.org/wp-content/uploads/2019/05/goodnotes-app.png?fit=900%252C587&quality=95&ssl=1)
+![](https://raw.githubusercontent.com/shenchingtou/asian-founders-archive/master/images/goodnotes-app-1.png)
 
 In his last semester of university, Steven Chan registered for as many bird courses as possible and staked all his efforts into a new app. Since then, he has built his product [GoodNotes](https://www.goodnotes.com/) into an award-winning app featured on Apple’s App Store multiple times. Rather than pursue a venture-backed business model, Steven’s devotion to product development and revenue-driven growth also afforded him the time to pursue other meaningful experiences in life, such as travel and be a digital nomad. After his first few years as a solopreneur, Steven began to build a team to expand GoodNotes into a tool that can realise the potential of digital note taking for every work situation. Find out how and why GoodNotes has gained success by aiming for profitability over fundraising.
 

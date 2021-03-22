@@ -9,11 +9,11 @@ title: "AppCoda"
 
 Archive Date: April 19, 2018
 
- ![](https://i1.wp.com/b3p0.org/wp-content/uploads/2018/04/Web-Simon-Ng-AppCoda-6163.jpg?fit=900%252C598&quality=95&ssl=1) 
+ ![](https://raw.githubusercontent.com/shenchingtou/asian-founders-archive/master/images/%5BWeb%5D%20Simon%20Ng%20AppCoda-6163.jpg) 
 
 *Every week, we feature one entrepreneur or startup in East Asia that we respect. This week, we interviewed Simon Ng, Founder and Chief Editor of AppCoda, a leading iOS development tutorial platform.** In our interview with Simon, we covered his entire journey with AppCoda for the past 5 years, which we’ll be separating in to 2 parts: Product and Business Development. Read on to find out how he developed his blog side project into a a full-time publication as a solopreneur.*
 
-![simon ng appcoda founder](https://i1.wp.com/b3p0.org/wp-content/uploads/2018/04/APWB_Athena_Lam_20180430-.022.jpeg?resize=900%252C506&quality=95&ssl=1)Simon works on AppCoda at a local co-working space in Kowloon, Hong Kong.
+Simon works on AppCoda at a local co-working space in Kowloon, Hong Kong.
  Unfortunately, we conducted the interview over a casual lunch and didn’t record it, but it turns out that Simon, a Hong Kong native, isn’t often interviewed in person.
 
 **How did you get started with AppCoda?**
@@ -64,5 +64,5 @@ The original idea came from a reader who said they loved my blog, but requested 
 
 August 2014. I started to hire freelance writers and began focusing on writing my own book. Before that, I read everything that Nathan Barry wrote. Nathan doesn’t write blogs much anymore, but he also developed a business model where he teaches people how to code and he shared how much revenue he makes. He still does. I read his entire guide before I wrote my book.
 
-![ooosh starups](https://i0.wp.com/b3p0.org/wp-content/uploads/2018/04/Web-Simon-Ng-AppCoda-6159.jpg?resize=900%252C598&quality=95&ssl=1)Simon grew his content ecosystem from online to offline — Photo by Athena Lam
+![ooosh starups](https://raw.githubusercontent.com/shenchingtou/asian-founders-archive/master/images/%5BWeb%5D%20Simon%20Ng%20AppCoda-6144.jpg)Simon grew his content ecosystem from online to offline — Photo by Athena Lam
  If you have friends creating content, send this post to them so that they can also be inspired to monetize their creations!
