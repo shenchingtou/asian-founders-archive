@@ -17,13 +17,10 @@ In his last semester of university, Steven Chan registered for as many bird cour
 
 Steven staked his career on GoodNotes. He had one final semester to complete and no clear career in sight. Steven enrolled in the easiest electives to finish up his degree and doubled down on an app idea he had been mulling over for months. His idea for the GoodNotes app emerged out of his own need as a student to take notes that were easy to save and didn’t take up space. None of the apps available in 2010 quite fitted his needs, so he set about to create his own. Fortunately, GoodNotes was not Steven’s first attempt to build a product. He had begun teaching himself programming since he was 10, before the first iPhone came out. He built games with Macromedia Flash throughout secondary school and when the first iPad came out, he tried building a documentation app for developers. This first app had mild success, but it gave him deep insight into his own working style and the product development process. His years of first-hand experience in obsessing over product features, combined with his curiosity and self-taught understanding of startup methodology, prepared him for his new venture.
 
-![goodnotes-steven-chan](quiver-image-url/B159407D6C7B2D17D411CA5EA7F2A130.jpg)
-
 ## Delivering unparalleled UX through understated details
 
 From day one, GoodNotes had a specific target user: math students like Steven. Unlike humanities majors, who could type lecture notes on laptops, writing was still the best way for notes with numbers and calculations. But having tried other handwriting apps available on the first iPad, Steven knew that subtle details were the crux of UX for note taking. When Steven did his market research with other note taking apps, he noted that they lacked the exact combination of features he wanted. In addition, the feeling of writing was just not as good and that created a barrier for him continuing to use them.
 
-![goodnotes-app](quiver-image-url/089975C682A0A004AAE1E48EBD30D6E2.png)
 
 He set out to build the app he could happily use every day, but focused on developing features around his observations from other apps. As a solopreneur, Steven worked on his app’s features organically, but they centred around these two UX themes:
 
@@ -46,8 +43,6 @@ As a frequent user for his own app, Steven prioritised features based on the num
 2. How does GoodNotes fit into users lives and workflow?
 
 Features are now developed according to product development best practices, such as wireframing, protyping, and user testing. However, one tip that Steven gives to solopreneurs is that you can still do key UX exercises with limited resources. He says that shortly after he brought on his early team members, they took advantage of WWDC to ask for volunteer user testers through a newsletter and Twitter call out to do tests in San Jose during the conference. Fans would not only drive for hours to give them valuable product feedback, but rooted for the lean startup team by evangelising for GoodNotes.
-
-![goodnotes-demo-2](quiver-image-url/B1CB27DB45484EFABCDFD30A64B21898.jpg)
 
 **Editor’s note**: The photo shown above is courtesy of a GoodNotes user. You can check out more on [GoodNotes’ Instagram](https://www.instagram.com/goodnotesapp/).
 
