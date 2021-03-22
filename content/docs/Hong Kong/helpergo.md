@@ -8,7 +8,7 @@ title: "Helper Go"
 
 Archive Date: October 8, 2018
 
- ![](https://i0.wp.com/b3p0.org/wp-content/uploads/2018/10/Sam-Ng-HelperGo-2374-Final-Web.jpg?fit=900%252C600&quality=95&ssl=1) 
+ ![Sam Ng - Founder of HelperGo - Smiling at the camera](https://raw.githubusercontent.com/shenchingtou/asian-founders-archive/master/images/Sam-Ng-HelperGo-2374-Final-Web.jpg)
 
 ***Brief:** In 2015, Sam Ng was onto his third company after two failed startups in two years. Fast forward to 2018 and Sam’s third company, [HelperGo](https://www.helpergo.co/) had investment from 500 Startups and reached profitability. Sam’s fourth company was already raising Series A and he had exited to work on his fifth startup, which had already secured investment. Sam sat down with us to share the gritty details of developing HelperGo. Part 1 covers how his approach to product development has evolved.*
 
